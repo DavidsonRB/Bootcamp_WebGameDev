@@ -1,2 +1,4 @@
 # Bootcamp_WebGameDev
-Desafios do bootcamp
+## Repositorio de Desafios de projetos do bootcamp da Dio.
+
+### Git e Github
